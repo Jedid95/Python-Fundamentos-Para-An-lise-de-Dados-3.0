@@ -13,3 +13,7 @@ Python Fundamentos Para Análise de Dados 3.0
     - 1.8. Requerimentos de Software
     - 1.9. A Inteligência está nas máquinas ou nos desenvolvedores?
     - 1.10. O que é Programação de computadores
+    - 1.11. Conhecendo a linguagem Python
+    - 1.12. Por que Cientistas de Dados escolhem Python?
+    - 1.13. O incrível crescimento da linguagem Python.
+    - 1.14. Python 2 x Python 3
