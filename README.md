@@ -17,3 +17,10 @@ Python Fundamentos Para Análise de Dados 3.0
     - 1.12. Por que Cientistas de Dados escolhem Python?
     - 1.13. O incrível crescimento da linguagem Python.
     - 1.14. Python 2 x Python 3
+    - 1.15. Anaconda Python
+    - 1.16. IDE's Python - Jupyter Notebook, PyCharm, Spyder e Google Colab
+    - 1.17. Instalando o Anaconda Python no Windows 10
+    - 1.18. Instalando o Anaconda Python no Linux Ubunto
+    - 1.19. Instalando o Anaconda Python no MacOS
+    - 1.20. Instalando a IDE PyCharm - Parte 1/2
+    - 1.21. Instalando a IDE PyCharm - Parte 2/2
