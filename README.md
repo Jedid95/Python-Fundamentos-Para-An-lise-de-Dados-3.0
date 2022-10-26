@@ -20,7 +20,17 @@ Python Fundamentos Para Análise de Dados 3.0
     - 1.15. Anaconda Python
     - 1.16. IDE's Python - Jupyter Notebook, PyCharm, Spyder e Google Colab
     - 1.17. Instalando o Anaconda Python no Windows 10
-    - 1.18. Instalando o Anaconda Python no Linux Ubunto
+    - 1.18. Instalando o Anaconda Python no Linux Ubuntu
     - 1.19. Instalando o Anaconda Python no MacOS
     - 1.20. Instalando a IDE PyCharm - Parte 1/2
     - 1.21. Instalando a IDE PyCharm - Parte 2/2
+    - 1.22. Como baixar os arquivos do curso no Guithub
+    - 1.23. Configurando o Anaconda Python para executar os arquivos do curso
+    - 1.24. Trabalhando com o Jupyter Notebook
+    - 1.25. Usando o interpetrador Python de Forma Interativa
+    - 1.26. Usando o Google Colab
+    - 1.27. Bilbliografia Python
+
+# 2. Variáveis, Tipos e Estrutura de Dados
+    - 2.1. Introdução
+    - 2.2. Por que isso é importante?
