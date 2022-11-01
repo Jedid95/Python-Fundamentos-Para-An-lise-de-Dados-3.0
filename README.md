@@ -34,3 +34,6 @@ Python Fundamentos Para Análise de Dados 3.0
 # 2. Variáveis, Tipos e Estrutura de Dados
     - 2.1. Introdução
     - 2.2. Por que isso é importante?
+    - 2.3. Python Fundamentos
+    - 2.4. Números e Operações Matemáticas
+    - 2.5. Jupyter Notebook - Números e Operações Matemáticas
