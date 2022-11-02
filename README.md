@@ -37,3 +37,6 @@ Python Fundamentos Para Análise de Dados 3.0
     - 2.3. Python Fundamentos
     - 2.4. Números e Operações Matemáticas
     - 2.5. Jupyter Notebook - Números e Operações Matemáticas
+    - 2.6. Variáveis e operadores
+    - 2.7. Jupyter Notebook - Variáveis e operadores
+    - 2.8. Strings e Indexação em Python
