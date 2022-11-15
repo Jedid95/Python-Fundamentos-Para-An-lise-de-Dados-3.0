@@ -40,3 +40,15 @@ Python Fundamentos Para Análise de Dados 3.0
     - 2.6. Variáveis e operadores
     - 2.7. Jupyter Notebook - Variáveis e operadores
     - 2.8. Strings e Indexação em Python
+    - 2.9. Jupyter Notebook - Strings
+    - 2.10. Estruturas de Dados - Listas
+    - 2.11. Jupyter Notebook - Listas
+    - 2.12. Estrutura de Dados - Dicionários
+    - 2.13. Jupyter Notebook - Dicionários
+    - 2.14. Estrutura de Dados - Tuplas
+    - 2.15. Jupyter Notebook - Tuplas
+    - 2.16. Resumo - O que vimos até aqui
+    - 2.17. Exercícios
+    - 2.18. Lab 01 - Desenvolvendo Game em Python
+    - 2.19. Quiz
+    - 2.20. Bibliografica, Referência e Links Úteis
