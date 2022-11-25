@@ -52,3 +52,9 @@ Python Fundamentos Para Análise de Dados 3.0
     - 2.18. Lab 01 - Desenvolvendo Game em Python
     - 2.19. Quiz
     - 2.20. Bibliografica, Referência e Links Úteis
+
+# 3. Loops, Condicionais, Métodos e Funções
+    - 3.1. Introdução
+    - 3.2. Solução Lab01
+    - 3.3. Bônus - IA x Machine Learning x Deep Learning
+    - 3.4. Por Que o Comando jupyter notebook Não Funciona?
