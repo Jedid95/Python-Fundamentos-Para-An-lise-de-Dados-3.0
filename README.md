@@ -70,3 +70,14 @@ Python Fundamentos Para Análise de Dados 3.0
     - 3.14. Jupyter Notebook - Loop While
     - 3.15. Jupyter Notebook - Pass, Break, Continue
     - 3.16. Estrutura de Repetição - Range
+    - 3.17. Exercícios - Loops e Condicionais
+    - 3.18. O que são métodos?
+    - 3.19. Jupyter Notebook - Métodos
+    - 3.20. O que são Funções ?
+    - 3.21. Jupyter Notebook - Funções
+    - 3.22. Expresões Lambda
+    - 3.23. Jupyter Notebook - Expresões Lambda
+    - 3.24. Exercícios - Métodos e Funções
+    - 3.25. Quiz
+    - 3.26. Lab 02 - Desenvolvendo uma calculadora em Python
+    - 3.27. Bibliografia, Referências e Links úteis
