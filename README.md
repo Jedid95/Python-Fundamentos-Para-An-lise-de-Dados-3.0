@@ -58,3 +58,15 @@ Python Fundamentos Para Análise de Dados 3.0
     - 3.2. Solução Lab01
     - 3.3. Bônus - IA x Machine Learning x Deep Learning
     - 3.4. Por Que o Comando jupyter notebook Não Funciona?
+    - 3.5. Condicionais - If/Else/Elif
+    - 3.6. Jupyter Notebook - Condicionais
+    - 3.7. Jupyter Notebook - Condicionais Aninhados
+    - 3.8. Jupyter Notebook - Condicionais Elif
+    - 3.9. Jupyter Notebook - Condicionais, Operadores Lógicos e Placeholders
+    - 3.10. Estruturas de Repetição - Loop For
+    - 3.11. Jupyter Notebook - Loop For
+    - 3.12. Jupyter Notebook - Loop For Aninhado e Outras Operações
+    - 3.13. Estruturas de Repetição - Loop While
+    - 3.14. Jupyter Notebook - Loop While
+    - 3.15. Jupyter Notebook - Pass, Break, Continue
+    - 3.16. Estrutura de Repetição - Range
