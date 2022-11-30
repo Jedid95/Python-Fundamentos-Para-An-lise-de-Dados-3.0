@@ -81,3 +81,9 @@ Python Fundamentos Para Análise de Dados 3.0
     - 3.25. Quiz
     - 3.26. Lab 02 - Desenvolvendo uma calculadora em Python
     - 3.27. Bibliografia, Referências e Links úteis
+
+# 4. Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+    - 4.1. Introdução
+    - 4.2. Solução Lab 02 -  Desenvolvendo Uma Calculadora em Python
+    - 4.3. Arquivos
+    - 4.4. Jupyter Notebook - Leitura e Gravação de Arquivos
