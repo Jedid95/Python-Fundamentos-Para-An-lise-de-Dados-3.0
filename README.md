@@ -87,3 +87,5 @@ Python Fundamentos Para Análise de Dados 3.0
     - 4.2. Solução Lab 02 -  Desenvolvendo Uma Calculadora em Python
     - 4.3. Arquivos
     - 4.4. Jupyter Notebook - Leitura e Gravação de Arquivos
+    - 4.5. Jupyter Notebook - Operações com Datasets
+    - 4.6. Jupyter Notebook - Manipulando arquivos TXT
