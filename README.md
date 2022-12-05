@@ -89,3 +89,10 @@ Python Fundamentos Para Análise de Dados 3.0
     - 4.4. Jupyter Notebook - Leitura e Gravação de Arquivos
     - 4.5. Jupyter Notebook - Operações com Datasets
     - 4.6. Jupyter Notebook - Manipulando arquivos TXT
+    - 4.7. Jupyter Notebook - Manipulando arquivos CSV
+    - 4.8. Jupyter Notebook - Manipulando arquivos JSON
+    - 4.9. Módulos e Pacotes
+    - 4.10. O Repositório PyPi e a instalação de Pacotes em Python
+    - 4.11. Jupyter Notebook - Módulos e Pacotes
+    - 4.12. Jupyter Notebook - O pacote Datetime
+    - 4.13. A Função Map
