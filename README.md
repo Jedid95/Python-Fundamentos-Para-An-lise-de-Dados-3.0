@@ -96,3 +96,11 @@ Python Fundamentos Para Análise de Dados 3.0
     - 4.11. Jupyter Notebook - Módulos e Pacotes
     - 4.12. Jupyter Notebook - O pacote Datetime
     - 4.13. A Função Map
+    - 4.14. Jupyter Notebook - Função Map
+    - 4.15. A Função Reduce
+    - 4.16. Jupyter Notebook - Função Reduce
+    - 4.17. A função Filter
+    - 4.18. Jupyter Notebook - Função Filter
+    - 4.19. List Comprehension
+    - 4.20. Jupyter Notebook - List Comprehension
+    
