@@ -103,4 +103,8 @@ Python Fundamentos Para Análise de Dados 3.0
     - 4.18. Jupyter Notebook - Função Filter
     - 4.19. List Comprehension
     - 4.20. Jupyter Notebook - List Comprehension
+    - 4.21. Funções Zip e Enumerate
+    - 4.22. Jupyter Notebook - Função Zip
+    - 4.23. Jupyter Notebook - Função Enumerate
     
+
