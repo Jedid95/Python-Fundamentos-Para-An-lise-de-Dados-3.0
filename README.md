@@ -106,5 +106,15 @@ Python Fundamentos Para Análise de Dados 3.0
     - 4.21. Funções Zip e Enumerate
     - 4.22. Jupyter Notebook - Função Zip
     - 4.23. Jupyter Notebook - Função Enumerate
-    
+    - 4.24. Erros e Exceções
+    - 4.25. Jupyter Notebook - Erros e Exceções
+    - 4.26. Jupyter Notebook - Tratamento de Erros e Exceções
+    - 4.27. Formato Unicode
+    - 4.28. Exercícios
+    - 4.29. Quiz
+    - 4.30. Bibliografia, Referências e Links úteis
+
+# 5. Orientação a Objetos
+    - 5.1. Introdução
+
 
