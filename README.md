@@ -116,5 +116,6 @@ Python Fundamentos Para Análise de Dados 3.0
 
 # 5. Orientação a Objetos
     - 5.1. Introdução
+    - 5.2. Introdução à Programação Orientada a Objetos
 
 
