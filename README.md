@@ -116,6 +116,9 @@ Python Fundamentos Para Análise de Dados 3.0
 
 # 5. Orientação a Objetos
     - 5.1. Introdução
-    - 5.2. Introdução à Programação Orientada a Objetos
+    - 5.2. Introdução à Programação Orientada a Objetos (POO)
+    - 5.3. Programação Estruturada x POO
+    - 5.4. Principais Conceitos POO
+    - 5.5. Classes e Objetos
 
 
