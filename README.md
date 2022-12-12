@@ -120,5 +120,12 @@ Python Fundamentos Para Análise de Dados 3.0
     - 5.3. Programação Estruturada x POO
     - 5.4. Principais Conceitos POO
     - 5.5. Classes e Objetos
-
+    - 5.6. Jupyter Notebook - Classes
+    - 5.7. Jupyter Notebook - Objetos
+    - 5.8. Métodos
+    - 5.9. Jupyter Notebook - Métodos
+    - 5.10. Herança
+    - 5.11. Jupyter Notebook - Herança
+    - 5.12. Métodos Especiais
+    - 5.13. Jupyter Notebook - Métodos Especiais
 
