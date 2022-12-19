@@ -128,4 +128,13 @@ Python Fundamentos Para Análise de Dados 3.0
     - 5.11. Jupyter Notebook - Herança
     - 5.12. Métodos Especiais
     - 5.13. Jupyter Notebook - Métodos Especiais
+    - 5.14. Lab03 - Desenvolvendo uma aplicação em Python com POO
+    - 5.15. Lab03 - Criando o projeto no PyCharm
+    - 5.16. Lab03 - Criando as especificações da Classe e dos Métodos
+    - 5.17. Quiz
+    - 5.18. Bibliografia, Referências e Links úteis
 
+# 6. Manipulando Banco de Dados em Python
+    - 6.1. Introdução
+    - 6.2. Solução Lab03 - Desenvolvendo uma aplicação em Python com POO
+    - 6.3. Introdução a Banco de Dados
