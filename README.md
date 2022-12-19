@@ -138,3 +138,12 @@ Python Fundamentos Para Análise de Dados 3.0
     - 6.1. Introdução
     - 6.2. Solução Lab03 - Desenvolvendo uma aplicação em Python com POO
     - 6.3. Introdução a Banco de Dados
+    - 6.4. Dados x Informações
+    - 6.5. SGBD - Sistema de Gerenciamento de Bancos de Dados
+    - 6.6. Bancos de Dados Relacionais
+    - 6.7. Principais conceitos de Bancos de Dados relacionais
+    - 6.8. Linguagem SQL
+    - 6.9. Banco de Dados SQLite
+    - 6.10. Quando usar o SQLite?
+    
+
