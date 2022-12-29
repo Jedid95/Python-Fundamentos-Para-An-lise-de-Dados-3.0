@@ -147,4 +147,6 @@ Python Fundamentos Para Análise de Dados 3.0
     - 6.10. Quando usar o SQLite?
     - 6.11. Jupyter Notebool - Criando um Banco de Dados SQLite em Python
     - 6.12. Jupyter Notebook - Usando Cursor Para Inserir Registros
+    - 6.13. Consultando os Dados com o SQLite Browser
+    - 6.14. Jupyter Notebook - Instruções Insert no SQLite em Python
 
