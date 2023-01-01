@@ -149,4 +149,8 @@ Python Fundamentos Para Análise de Dados 3.0
     - 6.12. Jupyter Notebook - Usando Cursor Para Inserir Registros
     - 6.13. Consultando os Dados com o SQLite Browser
     - 6.14. Jupyter Notebook - Instruções Insert no SQLite em Python
+    - 6.15. Jupyter Notebook - Instruções Insert no SQLite com Variáveis em Python
+    - 6.16. Jupyter Notebook - Instruções Select no SQLite em Python
+    - 6.17. Jupyter Notebook - Instruções Update e Delete no SQLite com Python
+    - 6.18. Jupyter Notebook - Construindo Gráficos a partir do Banco de Dados
 
