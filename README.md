@@ -153,4 +153,9 @@ Python Fundamentos Para Análise de Dados 3.0
     - 6.16. Jupyter Notebook - Instruções Select no SQLite em Python
     - 6.17. Jupyter Notebook - Instruções Update e Delete no SQLite com Python
     - 6.18. Jupyter Notebook - Construindo Gráficos a partir do Banco de Dados
+    - 6.19. Banco de Dados NoSQL
+    - 6.20. Principais Banco de Dados NoSQL
+    - 6.21. RDBMS x NoSQL
+    - 6.22. Banco de Dados MongoDB
+    - 6.23. Instalando MongoDB no Windows
 
