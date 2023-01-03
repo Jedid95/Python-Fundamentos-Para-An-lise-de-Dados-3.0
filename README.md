@@ -157,5 +157,9 @@ Python Fundamentos Para Análise de Dados 3.0
     - 6.20. Principais Banco de Dados NoSQL
     - 6.21. RDBMS x NoSQL
     - 6.22. Banco de Dados MongoDB
-    - 6.23. Instalando MongoDB no Windows
+    - 6.23. Instalando MongoDB no Windows (necessário fazer o download em mongodb.com)
+    - 6.24. Instalando MongoDB no Linux Ubuntu
+    - 6.25. Instalando MongoDB no MacOSx
+    - 6.26. Jupyter Notebook - Criando um Banco de Dados MongoDB
+    
 
