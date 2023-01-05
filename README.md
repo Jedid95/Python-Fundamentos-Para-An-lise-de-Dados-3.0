@@ -161,5 +161,9 @@ Python Fundamentos Para Análise de Dados 3.0
     - 6.24. Instalando MongoDB no Linux Ubuntu
     - 6.25. Instalando MongoDB no MacOSx
     - 6.26. Jupyter Notebook - Criando um Banco de Dados MongoDB
+    - 6.27. Jupyter Notebook - Inserindo Registros no Banco de Dados MongoDB
+    - 6.28. Jupyter Notebook - Retornando Dados do MongoDB
+    - 6.29. Ranking dos Principais Bancos de Dados
+    - 6.30. Mini-Projeto 1 - Guia de Análise Exploratória de Dados com Python e Linguagem SQL
     
 
